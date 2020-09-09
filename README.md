@@ -34,6 +34,9 @@ python train.py --train_f <train_data_path> --dev_f <devel_data_path>
 ```
 [1]: The data and the download scripts are borrowed from here: https://github.com/dmis-lab/biobert
 
+### Pretrained models
+- Available in the `models` directory.
+
 ## Note
 - The models are not optimal, not much effort has been spent on tuning them.
 - Number of layers, epochs and other model complexities have been kept to minimal due to computational limits.
