@@ -37,3 +37,10 @@ python train.py --train_f <train_data_path> --dev_f <devel_data_path>
 ## Note
 - The models are not optimal, not much effort has been spent on tuning them.
 - Number of layers, epochs and other model complexities have been kept to minimal due to computational limits.
+
+## TODO:
+- Explore more classical models.
+- Other seq2seq models like transformers and fine-tuned BERT or fine tuning modern models like GPT-2.
+- Log files.
+- Config files for hyperparamters.
+- Conduct tests using [checklist](https://www.aclweb.org/anthology/2020.acl-main.442/)
